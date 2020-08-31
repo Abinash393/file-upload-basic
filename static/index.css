@@ -1,0 +1,11 @@
+body {
+  background-color: #efefef;
+  font-family: sans-serif;
+}
+
+form {
+  display: inline-block;
+  background-color: white;
+  padding: 8px;
+  margin-top: 24px;
+}
